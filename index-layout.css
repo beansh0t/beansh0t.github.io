@@ -1,4 +1,11 @@
 /* CSS document */
+body{
+    margin: 0px;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
 h1{
     text-align: center;
 }
@@ -7,6 +14,7 @@ h1{
     background-color: grey;
     padding: 0;
     margin: 0;
+    overflow: hidden;
 }
 .navbar {
     color:white;
@@ -14,4 +22,10 @@ h1{
     padding: 15px;
     display: block;
     text-align: center;
+}
+.navbar a:hover{
+    background-color: darkgrey;
+}
+.navbar li{
+    float: left;
 }
