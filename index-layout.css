@@ -24,7 +24,7 @@ h1{
     text-align: center;
 }
 .navbar a:hover{
-    transition: darkgrey;
+    background-color: darkgrey;
 }
 .navbar li{
     float: left;
