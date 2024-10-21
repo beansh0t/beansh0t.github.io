@@ -4,6 +4,7 @@ main{
     background-color: floralwhite;
 }
 .inner_column{
+    align-items: center;
     width: 80%;
     background-color: lightgrey;
     padding: 10px;
