@@ -1,9 +1,10 @@
 main{
     margin-left: 20px;
     margin-right: 20px;
+    background-color: floralwhite;
 }
 .inner_column{
-    background-color: gray;
+    background-color: lightgrey;
     padding: 25%;
 }
 .inner_column .family_lato{
