@@ -6,10 +6,10 @@ main{
 .inner_column{
     width: 80%;
     background-color: lightgrey;
-    padding: 20px;
+    padding: 10px;
 }
 .inner_column .family_lato{
-    padding-left: 10px;
+    padding-left: 5px;
 }
 .h2 b{
     margin-left: 15px;
