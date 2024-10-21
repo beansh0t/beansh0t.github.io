@@ -4,11 +4,12 @@ main{
     background-color: floralwhite;
 }
 .inner_column{
+    width: 80%;
     background-color: lightgrey;
-    padding: 25%;
+    padding: 20px;
 }
 .inner_column .family_lato{
-    padding-left: 30px;
+    padding-left: 10px;
 }
 .h2 b{
     margin-left: 15px;
