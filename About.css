@@ -6,6 +6,9 @@ main{
     background-color: gray;
     padding: 25%;
 }
+.inner_column .family_lato{
+    padding: 30px;
+}
 .h2 b{
     margin-left: 15px;
     
